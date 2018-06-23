@@ -1,0 +1,8 @@
+# Minor-Project (Online Insurance Portal with Tracking Manager)
+
+“Online Insurance Portal with Tracking Manager” is an integrated insurance system which is developed mainly for the customers of the insurance company to view the details and benefits of various policies and schemes offered by the Insurance Company and can maintain the insurance details through the system electronically. The present systems are ineffective in maintaining all the relevant details which causes data mismanagement and this result in data losses. It is difficult to retrieve the required data efficiently. Online Insurance Portal with Tracking Manager System is revolutionized insurance solution that can facilitate online processing and services to the customers through the Internet. 
+
+The basic idea of online insurance is that customers can buy and maintain insurance policies online. This software provides five types of Insurance services which include Life, Medical and Motor Insurance. The Online Insurance Portal provides a numerous policy for the customers, so that the customer can view the details and benefits of various policies and schemes offered by the Insurance Company.
+
+It facilitates online processing and services to the customers through the Internet. New Users can register with the site so that he can get information online. The customer can buy, make premium payments and renewal of their policies online and the payments can be made through credit/debit cards. The portal also provides various tools and calculators. Administrator gives the approval for the new users. He can edit modify and delete upload certain information. It also provides the facility to send the statements policy details in PDF format to users’ mail ids.
+
